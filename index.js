@@ -848,7 +848,7 @@ async function runDailyActivity() {
 
 const screen = blessed.screen({
   smartCSR: true,
-  title: "HSK TESTNET AUTO BOT",
+  title: "EQUALHUB TESTNET AUTO BOT",
   autoPadding: true,
   fullUnicode: true,
   mouse: true,
